@@ -1,0 +1,1 @@
+export const authorizationServiceUrl = process.env.VUE_APP_AUTHORIZATION_SERVICE_URL
